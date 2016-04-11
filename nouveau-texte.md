@@ -7,7 +7,7 @@ Le texte original est disponible dans le [numéro 60 de multitudes](https://www.
 
 -------
 
-###Préambule
+######Préambule
 
 Le texte qui suit est une expérience de simplification du texte _Sortir de l’anthropocène_ de Bernard Stiegler. Un texte intéressant sur la complexité de nos systèmes d'organisation mais dont la propre complexité invalide le message. C'est de cette complexité dont nous voulons ici nous débarrasser.
 
