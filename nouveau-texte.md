@@ -1,9 +1,9 @@
 Sortir de l'anthropocène
 =======
 par Bernard Stiegler
-et débarrassé de tout ce qui n'est pas indispensable par [https://github.com/pycarnoy](pycarnoy),... METTRE À JOUR SVP!
+et débarrassé de tout ce qui n'est pas indispensable par [pycarnoy](https://github.com/pycarnoy),... METTRE À JOUR SVP!
 
-Le texte original est disponible dans le [https://www.cairn.info/revue-multitudes-2015-3-page-137.htm](numéro 60 de multitudes).
+Le texte original est disponible dans le [numéro 60 de multitudes](https://www.cairn.info/revue-multitudes-2015-3-page-137.htm).
 
 -------
 
